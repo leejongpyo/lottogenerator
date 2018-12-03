@@ -9,4 +9,3 @@ This is Lotto Generate
 * 이것도 이슈랑 연결이 됩니까?
 
 
-# mireroqa 의 새로운 풀 리퀘스트 요청 테스트 입니다.
